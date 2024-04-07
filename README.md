@@ -1,1 +1,2 @@
 # Chess-Game-OOP
+The game of chess is implemented using object-oriented programming principles. The game will support multiplayer functionality, allowing players to register, track wins and losses, and resume saved games. Players take turns selecting pieces and moving them across the board, with checks performed to ensure legal moves. Special chess moves such as castling, pawn promotion, and en passant will also be included. The game will continue until one player wins or a draw occurs.
